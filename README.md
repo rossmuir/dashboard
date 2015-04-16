@@ -22,6 +22,14 @@ Provides a Last Recently Used [caching algorithm](http://en.wikipedia.org/wiki/C
 |Travis|Appveyor|Code Coverage|
 |:------:|:-------:|:-------:|
 |[![Build Status](https://travis-ci.org/dirvine/maidsafe_client.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_client)|[![Build status](https://ci.appveyor.com/api/projects/status/kp7liadkt0uwm7fs?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-client)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_client/badge.svg?branch=master)](https://coveralls.io/r/dirvine/maidsafe_client?branch=master)|
+# maidsafe_types
+[Documentation](http://dirvine.github.io/maidsafe_types/)
+
+|Travis|Drone.io|Appveyor|Code Coverage|
+|:------:|:-------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/dirvine/maidsafe_types.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_types)|[![Build Status](https://drone.io/github.com/dirvine/maidsafe_types/status.png)](https://drone.io/github.com/dirvine/maidsafe_types/latest)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-types)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_types/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_types)|
+
+
 
 
 
