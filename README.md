@@ -11,7 +11,7 @@
 |:------:|:-------:|:-------:|
 [![Build Status](https://travis-ci.org/dirvine/drive.svg?branch=master)](https://travis-ci.org/dirvine/drive)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/drive)|[![Coverage Status](https://coveralls.io/repos/dirvine/drive/badge.svg)](https://coveralls.io/r/dirvine/drive)|
 # lru_time_cache 
- [Documentation](http://dirvine.github.io/lru_time_cache/)
+[Documentation](http://dirvine.github.io/lru_time_cache/)
 
 |Travis|Appveyor|Code Coverage|
 |:------:|:-------:|:-------:|
@@ -46,3 +46,9 @@
 |Travis|Appveyor|Code Coverage|
 |:------:|:-------:|:-------:|
 |[![Build Status](https://travis-ci.org/dirvine/self_encryption.svg?branch=master)](https://travis-ci.org/dirvine/self_encryption)|[![Build status](https://ci.appveyor.com/api/projects/status/qveqoe45n56atlk7?svg=true)](https://ci.appveyor.com/project/dirvine/self-encryption) | [![Coverage Status](https://coveralls.io/repos/dirvine/self_encryption/badge.svg?branch=master)](https://coveralls.io/r/dirvine/self_encryption?branch=master)|
+# routing
+[Documentation](http://dirvine.github.io/routing/routing/)
+
+|Travis|Appveyor|Code Coverage|
+|:------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/dirvine/routing.svg?branch=master)](https://travis-ci.org/dirvine/routing)|[![Build status](https://ci.appveyor.com/api/projects/status/ni7c20e9aux3g01i?svg=true)](https://ci.appveyor.com/project/dirvine/routing)|[![Coverage Status](https://coveralls.io/repos/dirvine/routing/badge.svg?branch=master)](https://coveralls.io/r/dirvine/routing?branch=master)|
