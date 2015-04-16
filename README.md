@@ -16,6 +16,12 @@ Provides a Last Recently Used [caching algorithm](http://en.wikipedia.org/wiki/C
 |Travis|Appveyor|Code Coverage|
 |:------:|:-------:|:-------:|
 |[![Build Status](https://travis-ci.org/dirvine/lru_time_cache.svg?branch=master)](https://travis-ci.org/dirvine/lru_time_cache)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/lru_time_cache)|[![Coverage Status](https://coveralls.io/repos/dirvine/lru_time_cache/badge.svg)](https://coveralls.io/r/dirvine/lru_time_cache)|
+# maidsafe_client
+[Documentation](http://dirvine.github.io/maidsafe_client/)
+|Travis build status|Appveyor build status (Windows)|Code Coverage|
+|:------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/dirvine/maidsafe_client.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_client)|[![Build status](https://ci.appveyor.com/api/projects/status/kp7liadkt0uwm7fs?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-client)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_client/badge.svg?branch=master)](https://coveralls.io/r/dirvine/maidsafe_client?branch=master)|
+
 
 
 
