@@ -28,6 +28,11 @@
 |Travis|Drone.io|Appveyor|Code Coverage|
 |:------:|:-------:|:-------:|:-------:|
 |[![Build Status](https://travis-ci.org/dirvine/maidsafe_types.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_types)|[![Build Status](https://drone.io/github.com/dirvine/maidsafe_types/status.png)](https://drone.io/github.com/dirvine/maidsafe_types/latest)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-types)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_types/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_types)|
+# maidsafe_vault
+[Documentation](http://dirvine.github.io/maidsafe_vault/)
+|Travis|Appveyor|Code Coverage|
+|:------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/dirvine/maidsafe_vault.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_vault) | [![Build status](https://ci.appveyor.com/api/projects/status/qglf0d3o28mxid6k?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-vault-hyyvf) |[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_vault/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_vault)|
 
 
 
