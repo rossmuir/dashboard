@@ -13,7 +13,7 @@
 
 # accumulator
 
-[Documentation](http://dirvine.github.io/accumulator/accumulator/)| [Crate](https://crates.io/crates/accumulator/) | [Github](https://github.com/dirvine/accumulator)
+[Documentation](http://dirvine.github.io/accumulator/accumulator/) | [Crate](https://crates.io/crates/accumulator/) | [Github](https://github.com/dirvine/accumulator)
 
 |Crate|Travis|Appveyor|Coverage|
 |:------:|:-------:|:-------:|:-------:|
