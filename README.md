@@ -11,9 +11,9 @@
 |[self_encryption](https://github.com/dirvine/self_encryption)|[![](http://meritbadge.herokuapp.com/self_encryption)](https://crates.io/crates/self_encryption)|[![Build Status](https://travis-ci.org/dirvine/self_encryption.svg?branch=master)](https://travis-ci.org/dirvine/self_encryption)|[![Build status](https://ci.appveyor.com/api/projects/status/qveqoe45n56atlk7?svg=true)](https://ci.appveyor.com/project/dirvine/self-encryption) | [![Coverage Status](https://coveralls.io/repos/dirvine/self_encryption/badge.svg?branch=master)](https://coveralls.io/r/dirvine/self_encryption?branch=master)|
 |[routing](https://github.com/dirvine/routing)|[![](http://meritbadge.herokuapp.com/routing)](https://crates.io/crates/routing)|[![Build Status](https://travis-ci.org/dirvine/routing.svg?branch=master)](https://travis-ci.org/dirvine/routing)|[![Build status](https://ci.appveyor.com/api/projects/status/ni7c20e9aux3g01i?svg=true)](https://ci.appveyor.com/project/dirvine/routing)|[![Coverage Status](https://coveralls.io/repos/dirvine/routing/badge.svg?branch=master)](https://coveralls.io/r/dirvine/routing?branch=master)|
 
-# Accumulator
+# accumulator
 
-|[Documentation](http://dirvine.github.io/accumulator/accumulator/)| [Crate](https://crates.io/crates/accumulator/) | [Github](https://github.com/dirvine/accumulator)
+[Documentation](http://dirvine.github.io/accumulator/accumulator/)| [Crate](https://crates.io/crates/accumulator/) | [Github](https://github.com/dirvine/accumulator)
 
 |Crate|Travis|Appveyor|Coverage|
 |:------:|:-------:|:-------:|:-------:|
