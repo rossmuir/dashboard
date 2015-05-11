@@ -15,17 +15,17 @@
 
 [Documentation](http://maidsafe.github.io/accumulator/accumulator/) | [Crate](https://crates.io/crates/accumulator/) | [Github](https://github.com/maidsafe/accumulator)
 
-|Crate|Travis|Appveyor|Coverage|
-|:------:|:-------:|:-------:|:-------:|
-|[![](http://meritbadge.herokuapp.com/accumulator)](https://crates.io/crates/accumulator)|[![Build Status](https://travis-ci.org/maidsafe/accumulator.svg?branch=master)](https://travis-ci.org/maidsafe/accumulator)|[![Build status](https://ci.appveyor.com/api/projects/status/fjhwbx31cffxbejt?svg=true)](https://ci.appveyor.com/project/dirvine/accumulator)|[![Coverage Status](https://coveralls.io/repos/dirvine/accumulator/badge.svg)](https://coveralls.io/r/dirvine/accumulator)|
+|Travis|Appveyor|Coverage|
+|:-------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/maidsafe/accumulator.svg?branch=master)](https://travis-ci.org/maidsafe/accumulator)|[![Build status](https://ci.appveyor.com/api/projects/status/fjhwbx31cffxbejt?svg=true)](https://ci.appveyor.com/project/dirvine/accumulator)|[![Coverage Status](https://coveralls.io/repos/dirvine/accumulator/badge.svg)](https://coveralls.io/r/dirvine/accumulator)|
 
 
 # crust
 [Documentation](http://maidsafe.github.io/crust/crust/) | [Crate](https://crates.io/crates/crust/) | [Github](https://github.com/maidsafe/crust)
 
-|Travis| Drone.io|Appveyor|Coverage|
-|:------:|:-------:|:-------:|:------:|
-|[![Build Status](https://travis-ci.org/maidsafe/crust.svg?branch=master)](https://travis-ci.org/maidsafe/crust)|[![Build Status](https://drone.io/github.com/maidsafe/crust/status.png)](https://drone.io/github.com/maidsafe/crust/latest)|[![Build status](https://ci.appveyor.com/api/projects/status/7bl67hscnfljxxt3?svg=true)](https://ci.appveyor.com/project/dirvine/crust)|[![Coverage Status](https://coveralls.io/repos/dirvine/crust/badge.svg)](https://coveralls.io/r/dirvine/crust)|
+|Travis|Appveyor|Coverage|
+|:------:|:-------:|:------:|
+|[![Build Status](https://travis-ci.org/maidsafe/crust.svg?branch=master)](https://travis-ci.org/maidsafe/crust)|[![Build status](https://ci.appveyor.com/api/projects/status/7bl67hscnfljxxt3?svg=true)](https://ci.appveyor.com/project/dirvine/crust)|[![Coverage Status](https://coveralls.io/repos/dirvine/crust/badge.svg)](https://coveralls.io/r/dirvine/crust)|
 # drive 
 [Documentation](http://maidsafe.github.io/drive/) | [Crate](https://crates.io/crates/drive/) | [Github](https://github.com/maidsafe/drive)
 
@@ -47,9 +47,9 @@
 # maidsafe_types
 [Documentation](http://maidsafe.github.io/maidsafe_types/) | [Crate](https://crates.io/crates/maidsafe_types/) | [Github](https://github.com/maidsafe/maidsafe_types)
 
-|Travis|Drone.io|Appveyor|Coverage|
-|:------:|:-------:|:-------:|:-------:|
-|[![Build Status](https://travis-ci.org/maidsafe/maidsafe_types.svg?branch=master)](https://travis-ci.org/maidsafe/maidsafe_types)|[![Build Status](https://drone.io/github.com/maidsafe/maidsafe_types/status.png)](https://drone.io/github.com/maidsafe/maidsafe_types/latest)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-types)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_types/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_types)|
+|Travis|Appveyor|Coverage|
+|:------:|:-------:|:-------:|
+|[![Build Status](https://travis-ci.org/maidsafe/maidsafe_types.svg?branch=master)](https://travis-ci.org/maidsafe/maidsafe_types)|[![Build status](https://ci.appveyor.com/api/projects/status/jsuo65sa631h0kav?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-types)|[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_types/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_types)|
 # maidsafe_vault
 [Documentation](http://maidsafe.github.io/maidsafe_vault/) | [Crate](https://crates.io/crates/maidsafe_vault/) | [Github](https://github.com/maidsafe/maidsafe_vault)
 
